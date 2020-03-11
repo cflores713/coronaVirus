@@ -1,5 +1,5 @@
 # coronaVirus
-Using Differential Equations and Machine Learning models to track the spread and growth rate of the novel COVID-19 virus.
+Using Differential Equations and Machine Learning models to track the spread and growth rate of the novel COVID-19 virus. The dataset is continuously updated (source: data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases).
 
 To Do:
 1.) Establish data preprocessing functions to handle data as it comes in; rather than manual refinement.
